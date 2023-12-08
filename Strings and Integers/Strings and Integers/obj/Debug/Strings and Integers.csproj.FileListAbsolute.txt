@@ -1,0 +1,7 @@
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.exe.config
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.exe
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.pdb
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.csproj.AssemblyReference.cache
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.exe
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.pdb
