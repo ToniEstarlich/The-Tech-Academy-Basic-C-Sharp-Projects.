@@ -1,0 +1,7 @@
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\obj\Debug\Abstract Class.csproj.AssemblyReference.cache
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\obj\Debug\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\bin\Debug\Abstract Class.exe.config
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\bin\Debug\Abstract Class.exe
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\bin\Debug\Abstract Class.pdb
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\obj\Debug\Abstract Class.exe
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Abstract Class\Abstract Class\obj\Debug\Abstract Class.pdb
