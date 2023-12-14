@@ -1,0 +1,7 @@
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Struct\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\Antonio Estarlich\Desktop\Basic_C#_Programs\Struct\Struct\obj\Debug\Struct.pdb
